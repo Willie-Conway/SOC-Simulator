@@ -1,3 +1,5 @@
+[![Deploy to GitHub Pages](https://github.com/Willie-Conway/SOC-Simulator/actions/workflows/deploy.yml/badge.svg)](https://github.com/Willie-Conway/SOC-Simulator/actions/workflows/deploy.yml)
+
 # 🛡️ SENTINEL SOC — Security Operations Center Dashboard
 
 ![SENTINEL SOC](https://img.shields.io/badge/SENTINEL_SOC-Security_Operations_Center-00b8d9?style=for-the-badge&logo=security&logoColor=white)
