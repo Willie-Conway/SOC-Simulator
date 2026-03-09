@@ -92,6 +92,9 @@
 - **Risk bars** with color thresholds (red >75, orange >40, green <40)
 - **Status indicators**: ISOLATED, INVESTIGATING, SUSPICIOUS, ONLINE
 
+![alt text](Screenshots/SOC_Dashboard.png)
+
+
 ---
 
 ## 🔍 **Module 02: Alerts — Full Alert Management**
@@ -117,6 +120,8 @@
 - **Investigation playbook** summary (if available)
 - **Neutralized status** with green checkmark
 - **Escalate button** for supervisor routing
+
+![alt text](Screenshots/Alerts.png)
 
 ---
 
@@ -158,6 +163,9 @@ Each mission includes **6-7 step-by-step investigation playbooks** with:
 - Incident Response
 - Threat Hunting
 
+
+![alt text](Screenshots/Missions.png)
+
 ---
 
 ## 🔬 **Module 04: CVE Intel — Live Vulnerability Intelligence**
@@ -184,6 +192,8 @@ Each mission includes **6-7 step-by-step investigation playbooks** with:
 - **Filter by**: ALL, CRITICAL, HIGH, MEDIUM, LOW
 - **One-click refresh** button
 
+![alt text](Screenshots/CVE_INTEL.png)
+
 ---
 
 ## 🗺️ **Module 05: Attack Map — Global Visualization**
@@ -207,6 +217,8 @@ Each mission includes **6-7 step-by-step investigation playbooks** with:
 - **Click markers** to show attack details
 - **Hover tooltips** with city and event count
 - **Marker icons** with severity-based borders
+
+![alt text](<Screenshots/Attack Map.png>)
 
 ---
 
@@ -232,6 +244,9 @@ Each mission includes **6-7 step-by-step investigation playbooks** with:
 | **SUSPICIOUS**    | 🟡 Yellow | Monitor closely         |
 | **ONLINE**        | 🟢 Green  | Normal operation        |
 
+
+![alt text](Screenshots/Endpoints.png)
+
 ---
 
 ## 📡 **Module 07: Threat Intel — Intelligence Feed**
@@ -251,6 +266,8 @@ Each mission includes **6-7 step-by-step investigation playbooks** with:
 🔥 13:55 · BlackCat affiliate activity spike — 3 new healthcare victims confirmed today.
 📡 13:30 · NightHawk C2 variant detected — updated YARA rules deployed fleet-wide.
 ```
+
+![alt text](Screenshots/THREAT_INTEL.png)
 
 ---
 
