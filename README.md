@@ -2,6 +2,8 @@
 
 # 🛡️ SENTINEL SOC — Security Operations Center Dashboard
 
+![alt text](Screenshots/Sentinel_SOC_logo.png)
+
 ![SENTINEL SOC](https://img.shields.io/badge/SENTINEL_SOC-Security_Operations_Center-00b8d9?style=for-the-badge&logo=security&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-Visualizations-00c875?style=for-the-badge&logo=chartdotjs&logoColor=white)
