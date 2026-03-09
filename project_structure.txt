@@ -1,0 +1,11 @@
+soc-simulator/
+├── public/
+│   └── index.html
+├── src/
+│   └── App.js
+├── package.json
+├── .gitignore
+├── README.md
+└── .github/
+    └── workflows/
+        └── deploy.yml
