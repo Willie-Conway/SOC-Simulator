@@ -12,17 +12,23 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      
       - uses: actions/setup-node@v3
         with:
           node-version: '18'
-      - run: npm install
-      - run: npm run build
+          
+      - name: Install dependencies
+        run: npm install
+        
+      - name: Build with CI=false
+        run: npm run build
         env:
           CI: false
-      - name: Deploy docs folder
+          
+      - name: Deploy docs folder to GitHub Pages
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/ -f
-          git commit -m "Deploy docs folder" || echo "No changes"
+          git commit -m "Deploy docs folder" || echo "No changes to commit"
           git push origin main
