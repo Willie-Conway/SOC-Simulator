@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/soc-simulator/static/js/main.911aaf56.js",
-    "index.html": "/soc-simulator/index.html",
-    "main.911aaf56.js.map": "/soc-simulator/static/js/main.911aaf56.js.map"
+    "main.js": "/SOC-Simulator/static/js/main.911aaf56.js",
+    "index.html": "/SOC-Simulator/index.html",
+    "main.911aaf56.js.map": "/SOC-Simulator/static/js/main.911aaf56.js.map"
   },
   "entrypoints": [
     "static/js/main.911aaf56.js"
