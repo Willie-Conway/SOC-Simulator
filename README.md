@@ -106,7 +106,7 @@
 
 ![alt text](<Screenshots/Create, Login, Logout.png>)
 
-![alt text](<Screenshots/Operator Profile.png>)
+
 
 ![alt text](Screenshots/SOC_Dashboard.png)
 
