@@ -462,7 +462,7 @@ MIT License — see LICENSE file for details.
 
 <p align="center">
   <strong>🛡️ SENTINEL SOC — Security Operations Center Dashboard — Now Ready for Your Portfolio! 🛡️</strong>
-p>
+
 
 ---
 
