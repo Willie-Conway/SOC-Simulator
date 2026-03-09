@@ -92,6 +92,20 @@
 - **Risk bars** with color thresholds (red >75, orange >40, green <40)
 - **Status indicators**: ISOLATED, INVESTIGATING, SUSPICIOUS, ONLINE
 
+### **Operator Profile**
+
+- **Name**: (Your-Name)
+- **Role**: SOC Analyst
+- **Status**: Active
+- **Last Login**: 2024-07-20 14:30 UTC
+- **Active Alerts**: 12
+- **Neutralized Threats**: 45
+- **MTTD**: 12 minutes
+
+![alt text](<Screenshots/Create, Login, Logout.png>)
+
+![alt text](<Screenshots/Operator Profile.png>)
+
 ![alt text](Screenshots/SOC_Dashboard.png)
 
 
